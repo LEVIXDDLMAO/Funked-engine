@@ -11,7 +11,7 @@ This Engine Will have :D
 
  extra Keys
 
- Stage editor ( Maybe )
+better chart editor with custom note maker
 
  Winning Icon's
 
